@@ -803,33 +803,6 @@
      "file": "/home/pi/.node-red/node_modules/node-red-contrib-uibuilder/nodes/uibuilder.js"
     }
    }
-  },
-  "node-red-contrib-git-backup": {
-   "name": "node-red-contrib-git-backup",
-   "version": "1.0.2",
-   "local": false,
-   "nodes": {
-    "git-backup": {
-     "name": "git-backup",
-     "types": [
-      "git-nodes-backup"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-contrib-git-backup",
-     "file": "/home/pi/.node-red/node_modules/node-red-contrib-git-backup/git-nodes.js"
-    },
-    "git-config": {
-     "name": "git-config",
-     "types": [
-      "git-config"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-contrib-git-backup",
-     "file": "/home/pi/.node-red/node_modules/node-red-contrib-git-backup/git-nodes-config.js"
-    }
-   }
   }
  },
  "_credentialSecret": "0ccbc7c736c2d67603b4303f49dea9a25f939f1cf58c9b384729a8f6ffaeefc6",
